@@ -1,5 +1,5 @@
 def contar():
-	contador = 100
+	contador = 101
 
 	for i in range(contador):
 		print contador-i
